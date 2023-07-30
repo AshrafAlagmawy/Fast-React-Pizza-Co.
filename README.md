@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# [Live Demo](https://fast-react-pizza-menu.netlify.app/)
+## [Live Demo](https://fast-react-pizza-menu.netlify.app/)
 
 ## Available Scripts
 
